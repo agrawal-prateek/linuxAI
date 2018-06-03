@@ -1,0 +1,5 @@
+.git
+*.wav
+*.mp4
+*.pyc
+__pycache__
