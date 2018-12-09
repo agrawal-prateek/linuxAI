@@ -35,11 +35,16 @@ Currently Ubuntu and Debian based operating systems are supported with this soft
 - what is my current location
 
 
-If you find any bug or any idea for further improvement in this software, you can contact me on
 
-[prateekagrawal89760@gmail.com ](mailto://prateekagrawal89760@gmail.com)
+For any query, feel free and contact me
 
-[+91-7464847884](tel://+917464847884)
 
-# Thanks for Reading
+**Prateek Agrawal**  
+prateekagrawal89760@gmail.com  
+[Website][400] | [LinkedIn][500] | (+91) 7464847884
 
+#### Thanks for Reading
+
+
+ [400]: http://agrawalprateek.me
+ [500]: https://www.linkedin.com/in/agrawal-prateek
